@@ -20,7 +20,7 @@ const apiStatusConstants = {
   initial: 'INITIAL',
   success: 'SUCCESS',
   failure: 'FAILURE',
-  inProgress: 'IN PROGRESS',
+  inProgress: 'IN_PROGRESS',
 }
 
 class CowinDashboard extends Component {
